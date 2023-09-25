@@ -1,0 +1,22 @@
+body {
+  background-image: url("https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2020/10/18/1808599107611/NICKELODEON_ROCKETPOWER_014_321653_1920x1080.jpg");
+}
+
+.Title {
+  text-align: center;
+  color: ivory;
+}
+
+.introduction {
+  text-align: center;
+  color: ivory;
+}
+
+.profile-header {
+  text-align: center;
+  color: ivory;
+}
+
+.profile-1, .profile-2, .profile-3, .profile-4 {
+  display: inline-block;
+}
